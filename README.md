@@ -32,5 +32,5 @@ My hobbies include watching, playing football, bowling, hiking, and working out 
 </p>
 
 ### 📊 GitHub Stats
-![(https://github-readme-stats.vercel.app/api?username=inseis&show_icons=true&theme=radical)
+!(https://github-readme-stats.vercel.app/api?username=inseis&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseis&layout=compact)
