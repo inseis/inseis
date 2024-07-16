@@ -11,7 +11,7 @@
 I enjoy learning from my classes, but I find learning outside of school even more exciting.<br/>
 Since high school, I've been interested in robotics and embedded systems, but at the age of 20, I started studying programming.<br/>
 My goal is to create programs that can have a significant impact on the world!<br/><br/>
-My hobbies include watching football, bowling, hiking, and working out at the gym. ⚽💪<br/><br/>
+My hobbies include watching, playing football, bowling, hiking, and working out at the gym. ⚽💪<br/><br/>
 
 ### 💪 Skills
 #### Platforms & Languages
