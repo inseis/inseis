@@ -1,4 +1,4 @@
-### 🤞 Nice way to meet me
+### 🤞 Look, who is here.
 <p>
   <a href="https://blog.naver.com/milkcall" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="www.linkedin.com/in/인서-정-7924a7305" target="_blank"><img src="https://img.shields.io/badge/InseoJung-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
