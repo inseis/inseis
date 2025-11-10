@@ -1,4 +1,3 @@
-### 🤞 안녕하세요~!
 <p>
   <a href="www.linkedin.com/in/인서-정-7924a7305" target="_blank"><img src="https://img.shields.io/badge/InseoJung-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/inse0tagram" target="_blank"><img src="https://img.shields.io/badge/inse0tagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
